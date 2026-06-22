@@ -17,7 +17,7 @@ The template reads `sirdataPurposes` and `sirdataExtraPurposes` from the GTM `da
 | Audience measurement | TCF Purposes 1 + 8 | `sirdataPurposes` |
 | Personalized content | TCF Purposes 1 + 5 + 6 | `sirdataPurposes` |
 | Email pixels | Extra Purpose 7 | `sirdataExtraPurposes` |
-| Session games | Extra Purpose 8 | `sirdataExtraPurposes` |
+| Session replays | Extra Purpose 8 | `sirdataExtraPurposes` |
 | Automatic identification data collection | Extra Purposes 9 + 10 | `sirdataExtraPurposes` |
 | Cross-context transfers for personalized digital advertising | Extra Purpose 11 | `sirdataExtraPurposes` |
 

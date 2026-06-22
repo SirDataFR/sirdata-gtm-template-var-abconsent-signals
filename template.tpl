@@ -88,8 +88,8 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Email pixels"
       },
       {
-        "value": "session_games",
-        "displayValue": "Session games"
+        "value": "session_replays",
+        "displayValue": "Session replays"
       },
       {
         "value": "identification_data",
@@ -102,7 +102,7 @@ ___TEMPLATE_PARAMETERS___
     ],
     "defaultValue": "non_personalized_ads",
     "simpleValueType": true,
-    "help": "Select the consent finality to check.\\n\\nDefinitions:\\n- Non-personalized advertising: Requires TCF Purposes 1 and 2\\n- Personalized advertising: Requires TCF Purposes 1, 3, and 4\\n- Audience measurement: Requires TCF Purposes 1 and 8\\n- Personalized content: Requires TCF Purposes 1, 5, and 6\\n- Email pixels: Requires Extra Purpose 7\\n- Session games: Requires Extra Purpose 8\\n- Automatic identification data collection: Requires Extra Purposes 9 and 10\\n- Cross-context transfers for personalized digital advertising: Requires Extra Purpose 11",
+    "help": "Select the consent finality to check.\\n\\nDefinitions:\\n- Non-personalized advertising: Requires TCF Purposes 1 and 2\\n- Personalized advertising: Requires TCF Purposes 1, 3, and 4\\n- Audience measurement: Requires TCF Purposes 1 and 8\\n- Personalized content: Requires TCF Purposes 1, 5, and 6\\n- Email pixels: Requires Extra Purpose 7\\n- Session replays: Requires Extra Purpose 8\\n- Automatic identification data collection: Requires Extra Purposes 9 and 10\\n- Cross-context transfers for personalized digital advertising: Requires Extra Purpose 11",
     "enablingConditions": [
       {
         "paramName": "language",
@@ -137,8 +137,8 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Pixels dans les emails"
       },
       {
-        "value": "session_games",
-        "displayValue": "Jeux de sessions"
+        "value": "session_replays",
+        "displayValue": "Rejeu de sessions"
       },
       {
         "value": "identification_data",
@@ -151,7 +151,7 @@ ___TEMPLATE_PARAMETERS___
     ],
     "defaultValue": "non_personalized_ads",
     "simpleValueType": true,
-    "help": "Sélectionnez la finalité du consentement à vérifier.\\n\\nDéfinitions :\\n- Publicité non personnalisée : Nécessite les Purposes TCF 1 et 2\\n- Publicité personnalisée : Nécessite les Purposes TCF 1, 3 et 4\\n- Mesure d'audience : Nécessite les Purposes TCF 1 et 8\\n- Contenu personnalisé : Nécessite les Purposes TCF 1, 5 et 6\\n- Pixels dans les emails : Nécessite l'Extra Purpose 7\\n- Jeux de sessions : Nécessite l'Extra Purpose 8\\n- Collecte automatique de données d'identification : Nécessite les Extra Purposes 9 et 10\\n- Transferts cross-contextes pour publicité digitale personnalisée : Nécessite l'Extra Purpose 11",
+    "help": "Sélectionnez la finalité du consentement à vérifier.\\n\\nDéfinitions :\\n- Publicité non personnalisée : Nécessite les Purposes TCF 1 et 2\\n- Publicité personnalisée : Nécessite les Purposes TCF 1, 3 et 4\\n- Mesure d'audience : Nécessite les Purposes TCF 1 et 8\\n- Contenu personnalisé : Nécessite les Purposes TCF 1, 5 et 6\\n- Pixels dans les emails : Nécessite l'Extra Purpose 7\\n- Rejeu de sessions : Nécessite l'Extra Purpose 8\\n- Collecte automatique de données d'identification : Nécessite les Extra Purposes 9 et 10\\n- Transferts cross-contextes pour publicité digitale personnalisée : Nécessite l'Extra Purpose 11",
     "enablingConditions": [
       {
         "paramName": "language",
@@ -186,8 +186,8 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Píxeles en correos electrónicos"
       },
       {
-        "value": "session_games",
-        "displayValue": "Juegos de sesión"
+        "value": "session_replays",
+        "displayValue": "Reproducción de sesiones"
       },
       {
         "value": "identification_data",
@@ -200,7 +200,7 @@ ___TEMPLATE_PARAMETERS___
     ],
     "defaultValue": "non_personalized_ads",
     "simpleValueType": true,
-    "help": "Seleccione la finalidad del consentimiento a verificar.\\n\\nDefiniciones:\\n- Publicidad no personalizada: Requiere Propósitos TCF 1 y 2\\n- Publicidad personalizada: Requiere Propósitos TCF 1, 3 y 4\\n- Medición de audiencia: Requiere Propósitos TCF 1 y 8\\n- Contenido personalizado: Requiere Propósitos TCF 1, 5 y 6\\n- Píxeles en correos electrónicos: Requiere Propósito Extra 7\\n- Juegos de sesión: Requiere Propósito Extra 8\\n- Recopilación automática de datos de identificación: Requiere Propósitos Extra 9 y 10\\n- Transferencias entre contextos para publicidad digital personalizada: Requiere Propósito Extra 11",
+    "help": "Seleccione la finalidad del consentimiento a verificar.\\n\\nDefiniciones:\\n- Publicidad no personalizada: Requiere Propósitos TCF 1 y 2\\n- Publicidad personalizada: Requiere Propósitos TCF 1, 3 y 4\\n- Medición de audiencia: Requiere Propósitos TCF 1 y 8\\n- Contenido personalizado: Requiere Propósitos TCF 1, 5 y 6\\n- Píxeles en correos electrónicos: Requiere Propósito Extra 7\\n- Reproducción de sesiones: Requiere Propósito Extra 8\\n- Recopilación automática de datos de identificación: Requiere Propósitos Extra 9 y 10\\n- Transferencias entre contextos para publicidad digital personalizada: Requiere Propósito Extra 11",
     "enablingConditions": [
       {
         "paramName": "language",
@@ -235,8 +235,8 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Pixel in E-Mails"
       },
       {
-        "value": "session_games",
-        "displayValue": "Sitzungsspiele"
+        "value": "session_replays",
+        "displayValue": "Sitzungswiedergabe"
       },
       {
         "value": "identification_data",
@@ -249,7 +249,7 @@ ___TEMPLATE_PARAMETERS___
     ],
     "defaultValue": "non_personalized_ads",
     "simpleValueType": true,
-    "help": "Wählen Sie die Einwilligungsfinalität zur Prüfung.\\n\\nDefinitionen:\\n- Nicht-personalisierte Werbung: Erfordert TCF-Zwecke 1 und 2\\n- Personalisierte Werbung: Erfordert TCF-Zwecke 1, 3 und 4\\n- Reichweitenmessung: Erfordert TCF-Zwecke 1 und 8\\n- Personalisierte Inhalte: Erfordert TCF-Zwecke 1, 5 und 6\\n- Pixel in E-Mails: Erfordert Extra-Zweck 7\\n- Sitzungsspiele: Erfordert Extra-Zweck 8\\n- Automatische Erfassung von Identifikationsdaten: Erfordert Extra-Zwecke 9 und 10\\n- Kontextübergreifende Übertragungen für personalisierte digitale Werbung: Erfordert Extra-Zweck 11",
+    "help": "Wählen Sie die Einwilligungsfinalität zur Prüfung.\\n\\nDefinitionen:\\n- Nicht-personalisierte Werbung: Erfordert TCF-Zwecke 1 und 2\\n- Personalisierte Werbung: Erfordert TCF-Zwecke 1, 3 und 4\\n- Reichweitenmessung: Erfordert TCF-Zwecke 1 und 8\\n- Personalisierte Inhalte: Erfordert TCF-Zwecke 1, 5 und 6\\n- Pixel in E-Mails: Erfordert Extra-Zweck 7\\n- Sitzungswiedergabe: Erfordert Extra-Zweck 8\\n- Automatische Erfassung von Identifikationsdaten: Erfordert Extra-Zwecke 9 und 10\\n- Kontextübergreifende Übertragungen für personalisierte digitale Werbung: Erfordert Extra-Zweck 11",
     "enablingConditions": [
       {
         "paramName": "language",
@@ -284,8 +284,8 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Pixel nelle email"
       },
       {
-        "value": "session_games",
-        "displayValue": "Giochi di sessione"
+        "value": "session_replays",
+        "displayValue": "Riproduzione sessioni"
       },
       {
         "value": "identification_data",
@@ -298,7 +298,7 @@ ___TEMPLATE_PARAMETERS___
     ],
     "defaultValue": "non_personalized_ads",
     "simpleValueType": true,
-    "help": "Selezionare la finalità del consenso da verificare.\\n\\nDefinizioni:\\n- Pubblicità non personalizzata: Richiede Purpose TCF 1 e 2\\n- Pubblicità personalizzata: Richiede Purpose TCF 1, 3 e 4\\n- Misurazione dell'audience: Richiede Purpose TCF 1 e 8\\n- Contenuti personalizzati: Richiede Purpose TCF 1, 5 e 6\\n- Pixel nelle email: Richiede Extra Purpose 7\\n- Giochi di sessione: Richiede Extra Purpose 8\\n- Raccolta automatica di dati di identificazione: Richiede Extra Purpose 9 e 10\\n- Trasferimenti cross-context per pubblicità digitale personalizzata: Richiede Extra Purpose 11",
+    "help": "Selezionare la finalità del consenso da verificare.\\n\\nDefinizioni:\\n- Pubblicità non personalizzata: Richiede Purpose TCF 1 e 2\\n- Pubblicità personalizzata: Richiede Purpose TCF 1, 3 e 4\\n- Misurazione dell'audience: Richiede Purpose TCF 1 e 8\\n- Contenuti personalizzati: Richiede Purpose TCF 1, 5 e 6\\n- Pixel nelle email: Richiede Extra Purpose 7\\n- Riproduzione sessioni: Richiede Extra Purpose 8\\n- Raccolta automatica di dati di identificazione: Richiede Extra Purpose 9 e 10\\n- Trasferimenti cross-context per pubblicità digitale personalizzata: Richiede Extra Purpose 11",
     "enablingConditions": [
       {
         "paramName": "language",
@@ -333,8 +333,8 @@ ___TEMPLATE_PARAMETERS___
         "displayValue": "Pixels em emails"
       },
       {
-        "value": "session_games",
-        "displayValue": "Jogos de sessão"
+        "value": "session_replays",
+        "displayValue": "Reprodução de sessões"
       },
       {
         "value": "identification_data",
@@ -347,7 +347,7 @@ ___TEMPLATE_PARAMETERS___
     ],
     "defaultValue": "non_personalized_ads",
     "simpleValueType": true,
-    "help": "Selecione a finalidade do consentimento a verificar.\\n\\nDefinições:\\n- Publicidade não personalizada: Requer Propósitos TCF 1 e 2\\n- Publicidade personalizada: Requer Propósitos TCF 1, 3 e 4\\n- Medição de audiência: Requer Propósitos TCF 1 e 8\\n- Conteúdo personalizado: Requer Propósitos TCF 1, 5 e 6\\n- Pixels em emails: Requer Propósito Extra 7\\n- Jogos de sessão: Requer Propósito Extra 8\\n- Coleta automática de dados de identificação: Requer Propósitos Extra 9 e 10\\n- Transferências entre contextos para publicidade digital personalizada: Requer Propósito Extra 11",
+    "help": "Selecione a finalidade do consentimento a verificar.\\n\\nDefinições:\\n- Publicidade não personalizada: Requer Propósitos TCF 1 e 2\\n- Publicidade personalizada: Requer Propósitos TCF 1, 3 e 4\\n- Medição de audiência: Requer Propósitos TCF 1 e 8\\n- Conteúdo personalizado: Requer Propósitos TCF 1, 5 e 6\\n- Pixels em emails: Requer Propósito Extra 7\\n- Reprodução de sessões: Requer Propósito Extra 8\\n- Coleta automática de dados de identificação: Requer Propósitos Extra 9 e 10\\n- Transferências entre contextos para publicidade digital personalizada: Requer Propósito Extra 11",
     "enablingConditions": [
       {
         "paramName": "language",
@@ -418,7 +418,7 @@ switch (finality) {
   case 'email_pixels':
     result = hasPurpose(sirdataExtraPurposes, 7);
     break;
-  case 'session_games':
+  case 'session_replays':
     result = hasPurpose(sirdataExtraPurposes, 8);
     break;
   case 'identification_data':
@@ -560,23 +560,23 @@ scenarios:
     });
     assertThat(runCode({language: 'en', finality_en: 'email_pixels'})).isEqualTo(false);
 
-- name: Session games - extra purpose 8 granted
+- name: Session replays - extra purpose 8 granted
   code: |
     mock('copyFromDataLayer', function(key) {
       if (key === 'sirdataPurposes') return '|1|2|3|4|5|6|7|8|9|10|';
       if (key === 'sirdataExtraPurposes') return '|1|2|3|4|7|8|';
       return undefined;
     });
-    assertThat(runCode({language: 'en', finality_en: 'session_games'})).isEqualTo(true);
+    assertThat(runCode({language: 'en', finality_en: 'session_replays'})).isEqualTo(true);
 
-- name: Session games - extra purpose 8 not granted
+- name: Session replays - extra purpose 8 not granted
   code: |
     mock('copyFromDataLayer', function(key) {
       if (key === 'sirdataPurposes') return '|1|2|3|4|5|6|7|8|9|10|';
       if (key === 'sirdataExtraPurposes') return '|1|2|3|4|7|';
       return undefined;
     });
-    assertThat(runCode({language: 'en', finality_en: 'session_games'})).isEqualTo(false);
+    assertThat(runCode({language: 'en', finality_en: 'session_replays'})).isEqualTo(false);
 
 - name: Identification data - extra purposes 9 and 10 granted
   code: |
