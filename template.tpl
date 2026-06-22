@@ -11,14 +11,14 @@ ___INFO___
 {
   "type": "MACRO",
   "id": "cvt_sirdata_abconsent_signals",
-  "version": 1,
+  "version": 1.0,
   "securityGroups": [],
-  "displayName": "Sirdata AB Consent Signals Decoder",
+  "displayName": "Sirdata ABconsent Purposes Decoder",
   "categories": [
     "CONSENT",
     "UTILITY"
   ],
-  "description": "Decodes Sirdata AB Consent CMP signals from the dataLayer and returns true/false for a selected consent finality.",
+  "description": "Decodes Sirdata ABconsent CMP signals from the dataLayer and returns true/false for a selected consent purpose.",
   "containerContexts": [
     "WEB"
   ]
