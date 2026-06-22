@@ -15,5 +15,5 @@
 homepage: "https://www.abconsent.com/"
 documentation: "https://cmp.docs.sirdata.net/"
 versions:
-  - sha: a0815255507d28df80c6bc08c0dade28413a76df
+  - sha: f19a866016e92a13ec546d65b3fce3fc2dbe9645
     changeNotes: Initial release — Sirdata AB Consent Signals Decoder variable template
