@@ -113,19 +113,19 @@ assertThat(
 ).isEqualTo(false);
 
 // ============================================================================
-// Test 12: Session games — extra purpose 8 granted
+// Test 12: Session replays — extra purpose 8 granted
 // ============================================================================
 setupDataLayer('|1|2|3|4|5|6|7|8|9|10|', '|1|2|3|4|7|8|');
 assertThat(
-  runVariable('en', 'finality_en', 'session_games')
+  runVariable('en', 'finality_en', 'session_replays')
 ).isEqualTo(true);
 
 // ============================================================================
-// Test 13: Session games — extra purpose 8 not granted
+// Test 13: Session replays — extra purpose 8 not granted
 // ============================================================================
 setupDataLayer('|1|2|3|4|5|6|7|8|9|10|', '|1|2|3|4|7|');
 assertThat(
-  runVariable('en', 'finality_en', 'session_games')
+  runVariable('en', 'finality_en', 'session_replays')
 ).isEqualTo(false);
 
 // ============================================================================
