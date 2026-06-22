@@ -1,0 +1,13 @@
+{
+  "name": "Sirdata AB Consent Signals Decoder",
+  "description": "Decodes Sirdata AB Consent CMP signals from the dataLayer and returns true/false for a selected consent finality.",
+  "version": "1.0.0",
+  "type": "variable",
+  "platform": "web",
+  "category": "consent",
+  "gallerySubmitted": false,
+  "galleryUrl": null,
+  "permissions": [
+    "read_data_layer"
+  ]
+}
